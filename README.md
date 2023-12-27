@@ -2,7 +2,7 @@
 
 
 
-# Seja Bem-vindo(a) || Fique a vontade🤍
+# Seja Bem-vindo(a) 
 Desenvolvedor Web Full-Stack | ReactJs, NextJs, NestJs, Nodejs, JavaScript, Python, Java Oracle, SQL, TypeScript
 
 <div id="badges">
