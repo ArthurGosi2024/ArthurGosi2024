@@ -5,6 +5,8 @@
 # Seja Bem-vindo(a) 
 Desenvolvedor Web Full-Stack | ReactJs, NextJs, NestJs, Nodejs, JavaScript, Python, Java Oracle, SQL, TypeScript
 
+
+
 <div id="badges">
   <a href = "https://www.linkedin.com/in/arthur-gosi-b3030b253/">
     <img src="https://img.shields.io/badge/LinkedIn-171e75?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
