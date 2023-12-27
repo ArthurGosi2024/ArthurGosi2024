@@ -39,6 +39,6 @@ Desenvolvedor Web Full-Stack | ReactJs, NextJs, NestJs, Nodejs, JavaScript, Pyth
 
 
 <div align="left">
-<img height = "190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurGosi&show_icons=true&theme=jolly"/>
-<img height = "190em" src="https://github-readme-stats.vercel.app/api?username=ArthurGosi&theme=jolly&show_icons=true"/>
+<img height = "190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurGosi2024&show_icons=true&theme=jolly"/>
+<img height = "190em" src="https://github-readme-stats.vercel.app/api?username=ArthurGosi2024&theme=jolly&show_icons=true"/>
 </div>
