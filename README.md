@@ -3,8 +3,8 @@
 
 
 # 🚀 Seja bem vindo(a)
-<h1> Olá 👋, eu sou Arthur, um entusiasta de tecnologia de 19 anos e desenvolvedor web full-stack. 💻 Minha paixão por programação se reflete na minha ampla experiência com tecnologias como ReactJs, NextJs, NestJs, Nodejs, JavaScript, Python, Java Oracle, SQL e TypeScript. Além disso, possuo expertise 
-  na plataforma FiveM 🎮, onde desenvolvo soluções envolventes para jogos online. Minhas habilidades versáteis e meu constante desejo de aprendizado me impulsionam a criar soluções inovadoras para os desafios no universo do desenvolvimento web e em ambientes de jogos online. 🚀</h1>
+<span align="center"> Olá 👋, eu sou Arthur, um entusiasta de tecnologia de 19 anos e desenvolvedor web full-stack. 💻 Minha paixão por programação se reflete na minha ampla experiência com tecnologias como ReactJs, NextJs, NestJs, Nodejs, JavaScript, Python, Java Oracle, SQL e TypeScript. Além disso, possuo expertise 
+  na plataforma FiveM 🎮, onde desenvolvo soluções envolventes para jogos online. Minhas habilidades versáteis e meu constante desejo de aprendizado me impulsionam a criar soluções inovadoras para os desafios no universo do desenvolvimento web e em ambientes de jogos online.</span>
 
 
 
