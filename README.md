@@ -15,7 +15,7 @@
 
 ---
 
-- 👩‍💻 Aprendendo Java Oracle, Python, SQL
+- 👩‍💻 Aprendendo NestJS
 - 📘 Aprendizado no Udemy e Senac
  <img src="minibanner.gif" width = "110px" align="right"/>&nbsp;
 
