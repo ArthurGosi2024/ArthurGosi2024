@@ -15,7 +15,6 @@
 
 ---
 
-- Estudando Rust,Go
 - Aprendizado no Udemy e Senac
 - Experiencia com CFX.re
  <img src="minibanner.gif" width = "110px" align="right"/>&nbsp;
