@@ -3,8 +3,7 @@
 
 
 # 🚀 Seja bem vindo(a)
-<span align="center"> Olá 👋, eu sou Arthur, um entusiasta de tecnologia de 20 anos e sou um Desenvolvedor Web Full-Stack Junior.
-
+<span align="center"> Olá 👋, eu sou Arthur, tenho 20 anos e sou apaixonado por Desenvolvimento Web, com foco especial em desenvolvimento front-end. Minha motivação reside em criar soluções inovadoras e práticas para atender às necessidades dos usuários, enquanto estou sempre empenhado em aprimorar minhas habilidades.
 
 
 <div id="badges" >
