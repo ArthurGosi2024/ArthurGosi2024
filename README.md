@@ -3,7 +3,7 @@
 
 
 # 🚀 Seja bem vindo(a)
-<span align="center"> Olá 👋, eu sou Arthur, um entusiasta de tecnologia de 19 anos e sou um Desenvolvedor Web Full-Stack Junior.
+<span align="center"> Olá 👋, eu sou Arthur, um entusiasta de tecnologia de 20 anos e sou um Desenvolvedor Web Full-Stack Junior.
 
 
 
@@ -15,7 +15,7 @@
 
 ---
 
-- 👩‍💻 Aprendendo NestJS
+- 👩‍💻 Estudando Rust,Go
 - 📘 Aprendizado no Udemy e Senac
  <img src="minibanner.gif" width = "110px" align="right"/>&nbsp;
 
