@@ -1,6 +1,6 @@
 # 👋 Olá, sou **Arthur Gosi**
 
-Desenvolvedor apaixonado por criar interfaces incríveis e soluções inteligentes. Atualmente focado em **React Native**, **Next.js** e **NestJS**, com experiência em desenvolvimento web e exploração do ecossistema de jogos no **FiveM**.
+Apaixonado por tecnologia e desenvolvimento web, busco sempre criar soluções práticas e eficientes. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário UniCarioca.
 
 ---
 
